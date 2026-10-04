@@ -1,8 +1,0 @@
-[{
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "io.github.wiiwbddd.twa",
-        "sha256_cert_fingerprints": ["08:44:FB:58:91:67:D9:D5:FC:73:D3:9B:BC:B7:E7:45:5B:F9:DA:FA:79:41:62:DA:C5:8A:3C:DF:5B:3F:03:36"]
-      }
-    }]
